@@ -1,5 +1,5 @@
 {
-    "name": "ayima/test",
+    "name": "ayima/test-composer-package",
     "type": "library",
     "description": "A private Composer package test",
     "keywords": ["testing"],
