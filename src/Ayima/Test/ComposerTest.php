@@ -1,6 +1,6 @@
 <?php
 
-namespace Ayima\Test;
+namespace Test;
 
 Class ComposerTest {
 
